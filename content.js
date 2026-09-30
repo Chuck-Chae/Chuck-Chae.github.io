@@ -8,7 +8,7 @@
    ========================================================= */
 
 const SITE = {
-  name: "Your Name",
+  name: "Chuck Chae",
   eyebrow: "Ph.D. Student · DGIST EECS",
   role: "Information Hiding & Multimedia Security",
 
@@ -25,7 +25,7 @@ const SITE = {
   location: "Daegu, South Korea",
 
   links: {
-    email: "mailto:YOUR_EMAIL@dgist.ac.kr",
+    email: "mailto:cocjr0208@dgist.ac.kr",
     scholar: "",
     github: "https://github.com/Chuck-Chae",
     orcid: "",
