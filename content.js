@@ -90,7 +90,7 @@ const SITE = {
     },
     {
       period: "20XX — 20XX",
-      institution: "Your Undergraduate University",
+      institution: "DGIST",
       degree: "B.S. in Mathematics",
       detail: ""
     }
